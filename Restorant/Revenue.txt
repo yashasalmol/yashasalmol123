@@ -1,0 +1,18 @@
+21,panir makhni,300
+20,Veg Thali,350
+21,panir makhni,300
+20,Veg Thali,350
+2,Veg Biryani,220
+1,Paneer Butter Masala,250
+2,Veg Biryani,220
+1,Paneer Butter Masala,250
+1,Paneer Butter Masala,250
+2,Veg Biryani,220
+1,Paneer Butter Masala,250
+2,Veg Biryani,220
+1,Paneer Butter Masala,250
+16,Salad,90
+21,panir makhni,300
+1,Paneer Butter Masala,250
+16,Salad,90
+21,panir makhni,300

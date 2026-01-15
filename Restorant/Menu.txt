@@ -1,0 +1,19 @@
+1,Paneer Butter Masala,250
+2,Veg Biryani,220
+3,Veg Pulao,180
+4,Jeera Rice,160
+5,Roti,25
+6,Naan,35
+7,Butter Naan,45
+8,Masala Dosa,150
+9,Sambar Vada,120
+10,Idli,100
+11,Dal Tadka,200
+12,Chole Bhature,180
+13,Mix Veg Curry,240
+14,Aloo Gobi,190
+15,Curd Rice,140
+16,Salad,90
+17,Soft Drinks,60
+18,Ras Malai,110
+19,Gulab Jamun,100
